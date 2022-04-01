@@ -2,3 +2,4 @@
 - I am mainly interested in writing codes, learning chemistry and math
 - Also I am BAD at tidying my codes 
 - ILIKEKIDS
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaulBudie&theme=radical)
