@@ -3,6 +3,7 @@
 - Also I am BAD at tidying my codes 
 - ILIKEKIDS
 
-
+<p align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaulBudie&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaulBudie&theme=radical)
+</p>
