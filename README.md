@@ -1,7 +1,10 @@
-<div style="text-align: right;color:red;">I am Saul Budie(It's just a internet name)</div>
-<div style="text-align: right;color:lime;">I do unoriginal codes</div>
-<div style="text-align: right;color:blue;">Codes are messy</div>
-<div style="text-align: right;color:magneta;">LikesKids</div>
+<h2 align="center">About Me</h2>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
+<div color=red>I am Saul Budie(It's just a internet name)</div>
+<div color=lime>I do unoriginal codes</div>
+<div color=blue>Codes are messy</div>
+<div color=magneta>LikesKids</div>
 
 <h2 align="center">Useless Stats</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
