@@ -6,7 +6,7 @@
 <div align=center>Codes are messy</div>
 <div align=center>LikesKids</div>
 
-<h2 align="center>Useless Stats</h2>
+<h2 align="center">Useless Stats</h2>
 
 <br>
 <div align=center>
