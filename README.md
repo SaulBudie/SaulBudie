@@ -1,12 +1,12 @@
 <h2 align="center">About Me</h2>
 
 <br>
-<div color=red>I am Saul Budie(It's just a internet name)</div>
-<div color=lime>I do unoriginal codes</div>
-<div color=blue>Codes are messy</div>
-<div color=magneta>LikesKids</div>
+<div align=center>I am Saul Budie(It's just a internet name)</div>
+<div align=center>"I do unoriginal codes</div>
+<div align=center>Codes are messy</div>
+<div align=center>LikesKids</div>
 
-<h2 align="center">Useless Stats</h2>
+<h2 align="center>Useless Stats</h2>
 
 <br>
 <div align=center>
