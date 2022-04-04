@@ -1,5 +1,4 @@
 
-<div align=center, size = 4>LikesKids</div>
 <h2 align="center">About Me</h2>
 <p align="center">
   <a href="https://www.reddit.com/user/budiegamez"/>
