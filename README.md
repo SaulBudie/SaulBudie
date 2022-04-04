@@ -11,8 +11,8 @@
 <br>
 <div align=center>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaulBudie&show_icons=true&theme=bloodred" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulBudie&theme=bloodred" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaulBudie&theme=bloodred" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaulBudie&show_icons=true&theme=scarlet" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulBudie&theme=scarlet" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaulBudie&theme=scarlet" />
 </p>
 </div>
