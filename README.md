@@ -17,8 +17,8 @@
 <br>
 <div align=center>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulBudie&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SaulBudie&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaulBudie&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaulBudie&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaulBudie&show_icons=true&theme=onedark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaulBudie&theme=onedark" />
 </p>
 </div>
