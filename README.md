@@ -7,7 +7,7 @@
 
 </p>
 <br>
-<div align=center>I do coding, mostly</div>
+<div align=center>nah i used to do coding</div>
 
 <h2 align="center">Useless Stats</h2>
 
